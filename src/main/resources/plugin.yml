@@ -1,0 +1,11 @@
+name: Billboards
+version: ${project.version}
+main: fr.vmaxime.billboards.Billboards
+api-version: 1.16
+prefix: Billboards
+authors: [ Maxime ]
+description: Simple plugin to create Billboards in minecraft.
+website: https://github.com/vMaxime
+depend:
+  - Vault
+  - ProtocolLib
