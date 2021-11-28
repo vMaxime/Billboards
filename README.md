@@ -3,11 +3,11 @@
 Allow your players to rent signs in the worlds.
 Signs are buyable from a billboard.
 
-# Build a billboard
+## Build a billboard
 
 ![2021-11-21_09 55 20](https://user-images.githubusercontent.com/49071800/143769578-c643db75-fa1c-415c-9d96-6915120c91fe.png)
 
-# Create a billboard
+## Create a billboard
 
 Command: /billboard create <name>
 Example: /billboard create village
