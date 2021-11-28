@@ -9,16 +9,16 @@ Signs are buyable from a billboard.
 
 ## Create a billboard
 
-Command: /billboard create <name>
-Example: /billboard create village
+* Command: /billboard create <name>
+* Example: /billboard create village
 
 ![Capture](https://user-images.githubusercontent.com/49071800/143769643-345590b9-826e-43ab-b81a-a176e5ebf35a.PNG)
 
-  A message will tell you to select a block:
+* A message will tell you to select a block:
  
 ![Capture](https://user-images.githubusercontent.com/49071800/143769678-1b501b91-bde6-4e6d-acd0-0243d68250ca.PNG)
   
-  Just interact with the block you want and the billboard is created!
+* Just interact with the block you want and the billboard is created!
   
 ![2021-11-28_14 23 56](https://user-images.githubusercontent.com/49071800/143769729-a6c8ea03-f2bb-4060-862f-2e514c3d1be4.png)
 
